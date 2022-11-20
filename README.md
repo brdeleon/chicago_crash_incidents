@@ -8,8 +8,8 @@
 
 Traffic deaths are preventable. The City of Chicago has had at least 800,000 yearly reported crash incidents since 2017 and at least 100 yearly reported crash incidents with at least one fatality since 2018. The City of Chicago believes everyone has the right to access to safe streets. However, Chicago has seen a general increase in incidents with at least one fatality over the years even though there has been a general decrease in number of crash incidents. We, the Vision Zero initiative, are committed to working with the City of Chicago to eliminate fatalities and serious injuries from traffic crashes. 
 
-<img src="https://design.chicago.gov/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="Chicago logo" title="Chicago Logo" align="center" width="150"/> 
-<img src="https://www.chicago.gov/content/dam/city/depts/cdot/CDOT%20Projects/VisionZero/VisionZeroLogo_Road_Horizontal_Long-01.png" alt="Vision Zero Chicago logo" title="Vision Zero Chicago Logo" align="center" width="275"/>
+<img src="https://design.chicago.gov/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="Chicago logo" title="Chicago Logo" align="left" width="150" /> 
+<img src="https://www.chicago.gov/content/dam/city/depts/cdot/CDOT%20Projects/VisionZero/VisionZeroLogo_Road_Horizontal_Long-01.png" alt="Vision Zero Chicago logo" title="Vision Zero Chicago Logo" align="center" width="275" />
 
 ## Business Problem
 
@@ -32,19 +32,19 @@ We will use this data to create a machine learning model which will help predict
 
 We built a classifier that predicts whether an injury occurs, or not, at a crash incident. We can predict whether a crash incident would involve injury based on engineered features at an accuracy of 93% and have determined which of features are most important in predicting injury:
 
-`FIRST_CRASH_TYPE0.389 +/- 0.004
-LOCATION0.267 +/- 0.001
-TRAFFICWAY_TYPE0.183 +/- 0.002
-CRASH_MONTH0.107 +/- 0.002
-CRASH_HOUR0.103 +/- 0.002
-CRASH_DAY_OF_WEEK0.097 +/- 0.002
-TRAFFIC_CONTROL_DEVICE0.086 +/- 0.002
-DEVICE_CONDITION0.080 +/- 0.002
-LIGHTING_CONDITION0.073 +/- 0.002
-SPEED_LIMIT0.048 +/- 0.001
-ROADWAY_SURFACE_COND0.043 +/- 0.001
-WEATHER_CONDITION0.025 +/- 0.001
-VEHICLE_TYPE0.015 +/- 0.001`
+`FIRST_CRASH_TYPE0.389 +/- 0.004` <br> 
+`LOCATION0.267 +/- 0.001` <br>
+`TRAFFICWAY_TYPE0.183 +/- 0.002` <br>
+`CRASH_MONTH0.107 +/- 0.002` <br>
+`CRASH_HOUR0.103 +/- 0.002` <br>
+`CRASH_DAY_OF_WEEK0.097 +/- 0.002` <br>
+`TRAFFIC_CONTROL_DEVICE0.086 +/- 0.002` <br>
+`DEVICE_CONDITION0.080 +/- 0.002` <br>
+`LIGHTING_CONDITION0.073 +/- 0.002` <br>
+`SPEED_LIMIT0.048 +/- 0.001` <br>
+`ROADWAY_SURFACE_COND0.043 +/- 0.001` <br>
+`WEATHER_CONDITION0.025 +/- 0.001` <br>
+`VEHICLE_TYPE0.015 +/- 0.001`
 
 ![final model](/models.png)
 
