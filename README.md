@@ -79,6 +79,8 @@ For additional info, contact Brenda De Leon at [brendardeleon@gmail.com](mailto:
 
 ![logo](https://activetrans.org/busreports/wp-content/uploads/2015/04/vision_zero_logo.jpg)
 
+<img src="https://activetrans.org/busreports/wp-content/uploads/2015/04/vision_zero_logo.jpg" alt="visionlogo" style="width: 200px;"/>
+
 ## Repository Structure
 
 ```
