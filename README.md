@@ -8,8 +8,8 @@
 
 Traffic deaths are preventable. The City of Chicago has had at least 800,000 yearly reported crash incidents since 2017 and at least 100 yearly reported crash incidents with at least one fatality since 2018. The City of Chicago believes everyone has the right to access to safe streets. However, Chicago has seen a general increase in incidents with at least one fatality over the years even though there has been a general decrease in number of crash incidents. We, the Vision Zero initiative, are committed to working with the City of Chicago to eliminate fatalities and serious injuries from traffic crashes. 
 
-<img src="https://design.chicago.gov/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="Chicago logo" title="Chicago Logo" width="150"/> 
-<img src="https://www.chicago.gov/content/dam/city/depts/cdot/CDOT%20Projects/VisionZero/VisionZeroLogo_Road_Horizontal_Long-01.png" alt="Vision Zero Chicago logo" title="Vision Zero Chicago Logo" width="250"/>
+<center><img src="https://design.chicago.gov/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="Chicago logo" title="Chicago Logo" width="150"/> 
+<img src="https://www.chicago.gov/content/dam/city/depts/cdot/CDOT%20Projects/VisionZero/VisionZeroLogo_Road_Horizontal_Long-01.png" alt="Vision Zero Chicago logo" title="Vision Zero Chicago Logo" width="250"/> </center>
 
 ## Business Problem
 
