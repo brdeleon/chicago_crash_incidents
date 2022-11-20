@@ -8,11 +8,14 @@
 
 Traffic deaths are preventable. The City of Chicago has had at least 800,000 yearly reported crash incidents since 2017 and at least 100 yearly reported crash incidents with at least one fatality since 2018. The City of Chicago believes everyone has the right to access to safe streets. However, Chicago has seen a general increase in incidents with at least one fatality over the years even though there has been a general decrease in number of crash incidents. We, the Vision Zero initiative, are committed to working with the City of Chicago to eliminate fatalities and serious injuries from traffic crashes. 
 
+<img src="https://design.chicago.gov/assets/img/logo/LOGO-CHICAGO-horizontal.png" alt="Chicago logo" title="Chicago Logo" width="150"/> 
+<img src="https://www.chicago.gov/content/dam/city/depts/cdot/CDOT%20Projects/VisionZero/VisionZeroLogo_Road_Horizontal_Long-01.png" alt="Vision Zero Chicago logo" title="Vision Zero Chicago Logo" width="250"/>
+
 ## Business Problem
 
-![img](https://thehill.com/wp-content/uploads/sites/2/2021/09/ca_traffic_063021istock_0.jpg?w=1254&h=766&crop=1)
-
 Chicago has seen an increase in crash fatalities over the years even though there has been a general decrease in number of crash incidents. The City of Chicago needs to decrease fatal car incidents. Unfortunately, the city resources available to address traffic safety are limited. 
+
+<img src="https://thehill.com/wp-content/uploads/sites/2/2021/09/ca_traffic_063021istock_0.jpg?w=1254&h=766&crop=1" alt="car rears in chicago traffic" style="width: 500px;"/>
 
 ## Data
 
@@ -60,8 +63,6 @@ Our recommendations for the City of Chicago are backed by data and focus on thos
 
 By focusing resources on features most important in predicting injury, the City of Chicago can reduce the likelihood of injury from traffic crashes and improve the safety of streets for everyone.
 
-![vision zero logo](/VisionZeroLogo.png)
-
 ### Next Steps
 
 Further analyses could yield additional insights to further improve the city's traffic safety:
@@ -76,8 +77,6 @@ Further analyses could yield additional insights to further improve the city's t
 See the full analysis in the [Jupyter Notebook](./Chicago Traffic Crashes _ Modeling.ipynb) or review this [presentation](./Chicago Crashes Presentation.pdf).
 
 For additional info, contact Brenda De Leon at [brendardeleon@gmail.com](mailto:brendardeleon@gmail.com)
-
-![logo](https://activetrans.org/busreports/wp-content/uploads/2015/04/vision_zero_logo.jpg)
 
 <img src="https://activetrans.org/busreports/wp-content/uploads/2015/04/vision_zero_logo.jpg" alt="visionlogo" style="width: 200px;"/>
 
