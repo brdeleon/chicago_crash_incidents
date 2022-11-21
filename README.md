@@ -13,7 +13,7 @@ Traffic deaths are preventable. The City of Chicago has had at least 800,000 yea
 
 ## Business Problem
 
-Chicago has seen an increase in crash fatalities over the years even though there has been a general decrease in number of crash incidents. The City of Chicago needs to decrease fatal car incidents. Unfortunately, the city resources available to address traffic safety are limited. 
+Chicago has seen an [increase in crash fatalities](https://www.illinoispolicy.org/1m-chicago-speed-camera-tickets-fail-to-stop-record-traffic-deaths/) over the years even though there has been a general decrease in number of crash incidents. The City of Chicago needs to decrease fatal car incidents. Unfortunately, the city resources available to address traffic safety are limited. 
 
 ## Data
 
