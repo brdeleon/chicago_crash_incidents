@@ -1,7 +1,8 @@
 ![Chicago St](https://s3-prod.chicagobusiness.com/north-mich-ave.jpg)
 
-# Chicago Traffic Safety Initiative
+# Enhancing Traffic Safety with Data-Driven Solutions
 
+## Using Machine Learning to Make Chicago's Streets Safer
 **Author**: [Brenda De Leon](mailto:brendardeleon@gmail.com)
 
 ## Overview
