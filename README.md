@@ -27,7 +27,8 @@ The following three datasets are provided to be used in conjunction with each ot
 
 ## Methods
 
-We will use this data to create a machine learning model which will help predict what causes injuries in crash incidents. Our binary classification model will help identify what features are most relevant in crash incident injuries.
+We will develop a machine learning model using the available data to predict the factors that contribute to injuries in crash incidents. The development of the model will involve several steps, including data preprocessing, feature selection, model training, and evaluation. Using the model, we can identify the features that have the strongest influence on injury outcomes in crash incidents. Ultimately, our goal is to provide insights into the most significant factors that contribute to injuries in crash incidents, which can inform more effective safety measures and policies.
+
 
 ## Results
 
@@ -52,7 +53,7 @@ We built a <b>Weighted Decision Tree</b> Classification model with engineered fe
 
 ## Conclusions
 
-Our recommendations for the City of Chicago are backed by data and focus on those features most likely to result in an injury given the city's limited resources. Vision Zero recommends the following:
+Our recommendations for the City of Chicago are based on data analysis, highlighting the features most likely to reduce injury rates while taking into account the city's limited resources. Vision Zero recommends the following:
 
 - **Launch Public Health and Safety Campaigns to raise awareness of the high risk of injury in incidents involving cyclists and pedestrians** Distribute free helmets and bike lights, along with information on the importance of wearing them properly to reduce the risk of injury. Encourage cyclists and pedestrians to wear bright clothing, especially in low-visibility settings, to increase their visibility to motorists. Consider implementing higher vehicle traffic fees involving cyclists or pedestrians to incentivize safer driving practices and reduce the number of incidents.
 
@@ -64,12 +65,12 @@ By utilizing the insights gained from our machine learning model, the City of Ch
 
 ### Next Steps
 
-Further analyses could yield additional insights to further improve the city's traffic safety:
+Further analysis could yield additional insights to further improve the city's traffic safety:
 
-- Better data collection could significantly improve our prediction ability. Unfortunately, features worthy of attention were dropped due to excessive nulls or unknowns. Age and sex are some features that were dropped due to having almost 90% null values. Weather and safety equipment are other possibly important features that were dropped to due to excessive nulls or unknowns.
-- Widen the crash date range to include crashes from more years.
-- Use location points to create crash incident maps to identify if there are any top locations that cluster near each other for priority identification.
-- Conduct a more extensive grid search on random forest focusing on those parameters that can address our data imbalance like class weight.
+- To improve our prediction ability, we need to more data and better data collection. Unfortunately, some features that could be important for our analysis, such as age, sex, weather, and safety equipment, were dropped due to excessive nulls or unknowns.
+- Include data from more years to identify trends and patterns over time.
+- Create crash incident maps using location points to visually inspect and identify areas for targeted interventions.
+- Conduct more preprocessing steps and hyperparameter tuning on decision tree focusing on those parameters and techniques that can address data imbalance.
 
 ## For More Information
 
