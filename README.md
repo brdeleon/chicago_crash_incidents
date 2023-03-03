@@ -31,7 +31,7 @@ We will use this data to create a machine learning model which will help predict
 
 ## Results
 
-We built a classifier that predicts whether an injury occurs, or not, at a crash incident. We can predict whether a crash incident would involve injury based on engineered features at an accuracy of 93% and have determined which of features are most important in predicting injury:
+We built a <b>Weighted Decision Tree</b> Classification model with engineered features that predicts whether a crash incident involves injury at an accuracy of 95% and determines which features are most important in predicting injury.:
 
 `FIRST_CRASH_TYPE0.389 +/- 0.004` <br> 
 `LOCATION0.267 +/- 0.001` <br>
@@ -47,20 +47,20 @@ We built a classifier that predicts whether an injury occurs, or not, at a crash
 `WEATHER_CONDITION0.025 +/- 0.001` <br>
 `VEHICLE_TYPE0.015 +/- 0.001`
 
-![final model](/models.png)
+![final model](/finalmodel.png)
 
 
 ## Conclusions
 
 Our recommendations for the City of Chicago are backed by data and focus on those features most likely to result in an injury given the city's limited resources. Vision Zero recommends the following:
 
-- **Public Health/Safety Campaigns that caution of the high injury rate in incidents where a cyclist or pedestrian is involved.** Provide free helmets and bike lights, with information on importance of proper usage. Encourage bright clothing to cyclists and pedestrians particularly in lower visible settings. Give warning that vehicle traffic fees involving cyclists or pedestrians will increase if numbers do not decrease.
+- **Launch Public Health and Safety Campaigns to raise awareness of the high risk of injury in incidents involving cyclists and pedestrians** Distribute free helmets and bike lights, along with information on the importance of wearing them properly to reduce the risk of injury. Encourage cyclists and pedestrians to wear bright clothing, especially in low-visibility settings, to increase their visibility to motorists. Consider implementing higher vehicle traffic fees involving cyclists or pedestrians to incentivize safer driving practices and reduce the number of incidents.
 
-- **Provide upgrades to problematic location points.** Upgrade the traffic control devices and or include more warnings or traffic control officers along the top location points where the most incidents occur, particularly those of fourway trafficway type. Upgrade lanes and traffic signage around the top location points to be more cyclist and pedestrian friendly, including accessability considerations.
+- **Prioritize problematic location points where the most incidents involving cyclists and pedestrians occur** Implement upgrades to the traffic control devices at these locations, such as adding more visible warnings or installing more efficient traffic control officers. Upgrade the lanes and traffic signage around these locations to make them more cyclist and pedestrian friendly, while also considering accessibility needs. Focus particularly on problematic four-way trafficway locations, where the risk of incidents is highest.
 
-- **Resource availability during targetted time frames.** Resource availability should increase in those top locations, particularly during the months of: July, September, and October and particularly during the hours of: 5pm to 9pm. Consider lowering public transportation fees during those months and/or hours and increasing number of trains/buses in rotation. This will encourage less vehicles on the roads which could decrease opportunities for crash incidents.
+- **Improved Resource Availability for High-Risk Timeframes** Increase the availability of resources, such as traffic control officers and emergency services, in the top locations where incidents involving cyclists and pedestrians are most frequent. Prioritize the months of July, September, and October, when traffic tends to be higher, as well as the hours of 5pm to 9pm, when visibility is lower and more incidents tend to occur. Consider implementing lower public transportation fees during these months and hours, as well as increasing the frequency of trains and buses in rotation, to encourage fewer vehicles on the roads and reduce the risk of incidents involving cyclists and pedestrians. 
 
-By focusing resources on features most important in predicting injury, the City of Chicago can reduce the likelihood of injury from traffic crashes and improve the safety of streets for everyone.
+By utilizing the insights gained from our machine learning model, the City of Chicago can take targeted action to address the most critical safety concerns and enhance the safety of streets for everyone.
 
 ### Next Steps
 
